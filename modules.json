@@ -299,9 +299,11 @@
     "cs2/vesta.exe": {
       "size": 5169664,
       "sha256": "ca06b2b18b51e75877a176a829da4229de6752946768aba5772b804e504caeaf"
+    },
+    "cs2/NL.dll": {
+      "size": 14820864,
+      "sha256": "04e42d832c8fc0ce2ccfd46f3f9d9d43c6b62f2dfd0f6943654b5c1cc390bf4e"
     }
   },
-  "pending": [
-    "cs2/NL.dll"
-  ]
+  "pending": []
 }
