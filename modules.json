@@ -1,0 +1,307 @@
+{
+  "files": {
+    "aimware/$$YaYa-Cfg-Aimware$$.cfg": {
+      "size": 71723,
+      "sha256": "ddba9739d344f69173ea63189b15d7222d352d9df9c465d9929e8c223d66c0d5"
+    },
+    "aimware/MAGICS_HVH_Scout.cfg": {
+      "size": 34900,
+      "sha256": "1fe4b5d3cebe6f3515755411e5ee1cba095b3120c5030bba509589dd7f110571"
+    },
+    "aimware/capstone.dll": {
+      "size": 4827136,
+      "sha256": "7c9688e96fb4d5819bbc8705d51f1c89bf12331200416cebc136ed02c54f9ceb"
+    },
+    "aimware/csgo-x86.dll": {
+      "size": 2736128,
+      "sha256": "b9cbc642685541ce53cd560fc1c40b720731179c918833df02e2ae0b60dfc8c0"
+    },
+    "aimware/csgo-x86.map": {
+      "size": 1649911,
+      "sha256": "aa0c8d6c2c0a7b18acb4e1602b60e355b56bb0690df269cec58033de8d3962d0"
+    },
+    "airflow/airflow.dll": {
+      "size": 4961280,
+      "sha256": "617c8cbd08bad34241afcdff3099b4a9f68e9d910ab3ab69e064e7dc19f0b439"
+    },
+    "artictech/ArcticTech.dll": {
+      "size": 5224960,
+      "sha256": "34c51f7ee740a3d0529fbb2aa77c8d68264f80508db6f97ad09f1d4663b58fd8"
+    },
+    "ev0lve/config.ini": {
+      "size": 78,
+      "sha256": "4603575f79ca6dab949e4e85592bc57b4a5dc71e96c1b00de76bd1fe45373616"
+    },
+    "ev0lve/ev0lve_csgo.dll": {
+      "size": 3582976,
+      "sha256": "7baabaf3124c2f5866c7c686038147f40b49c11663fe6d283d6346e0d8e97176"
+    },
+    "ev0lve/ts3client_win64.exe": {
+      "size": 84992,
+      "sha256": "476acf849823e58a548963fb2724ddc8104d1e9ec1bfc793734fe7d46f05f198"
+    },
+    "fatality/fatality_t.dll": {
+      "size": 61658112,
+      "sha256": "290df4efbde18d19ad084730f4c28818b4360eaa410515f993f44601e7f04dc3"
+    },
+    "femboyhookv2/v2.dll": {
+      "size": 790528,
+      "sha256": "78ffddafa41e4690a372da26942733974c66eda73496eb9307b67487d51dc6c9"
+    },
+    "floridahook/FloridaHook.dll": {
+      "size": 3987456,
+      "sha256": "93548d7dbbe4b8ebfabedaf345cedc9308e3bb4fc354f2a5ce14869bed011ecf"
+    },
+    "havoc/base2.dll": {
+      "size": 831488,
+      "sha256": "2451de9dc53b7301448dd7b2c61aa5248a9e5e42673d3b42dc9e58095557250c"
+    },
+    "havoc/slxzpgm.cfg": {
+      "size": 68014,
+      "sha256": "c4fa1198ec4c63c5248c01e717223a964b6341c4af0752774ca9310c15381bcc"
+    },
+    "havoc/slxzptakse.cfg": {
+      "size": 68112,
+      "sha256": "81de3cbfc0d7661b5e515c7986f6bd27cee7c1000c8efe497567f32d9fe5aec2"
+    },
+    "legendware/GameOverlayRenderer.dll": {
+      "size": 1193320,
+      "sha256": "f9131835cb544c838e3fd140f0446cf7639e87e2c6bea09113f999d086065efc"
+    },
+    "legendware/Legendware/resources/fonts/g_awesome_font_data": {
+      "size": 707402,
+      "sha256": "b15d25a84f5512babaf1aaf281e427226513421dda61c7f5b161dbcd9ddfd103"
+    },
+    "legendware/Legendware/resources/fonts/g_csgo_icons_compressed_data": {
+      "size": 43552,
+      "sha256": "f4bf7c59f860635654fe6112c4e919b81bca75a41f0dcaafb9dddc75dee16d48"
+    },
+    "legendware/Legendware/resources/fonts/g_dinpro_bold_data": {
+      "size": 70142,
+      "sha256": "fbb40f578ee2759dfae801e7b229a76e6eab5bc52d87424be723327cd22253e4"
+    },
+    "legendware/Legendware/resources/fonts/g_dinpro_data": {
+      "size": 70177,
+      "sha256": "254b05735cf68bb9707b84b2f2ecd65144443fc0d5384bf02189506bf17a71be"
+    },
+    "legendware/Legendware/resources/fonts/g_icons_data": {
+      "size": 4591,
+      "sha256": "17358f2163fa4c542ddee26c9f40ea4392da112e9921a9e3d70863b8fd92fc62"
+    },
+    "legendware/Legendware/resources/fonts/g_montserrat_data": {
+      "size": 154502,
+      "sha256": "b6bf3b0afee8bc9d6775b420729e17ef9017c81599bfe576284edff25d7ebfeb"
+    },
+    "legendware/Legendware/resources/fonts/g_weapon_icons_data": {
+      "size": 41396,
+      "sha256": "a3c63d48dc49bb78531d7ff6c5c31760c6e89ec0d949d8fb5ae560f582024acf"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_arms": {
+      "size": 30508,
+      "sha256": "20f7f2a90982c1cb1e9c2da91368974046a9822e863ae84e6bedad377988ee31"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_arms_ph": {
+      "size": 4180,
+      "sha256": "f8781614790b3b8e61cf5d80c336f1a59376858000afcd4bf196ce6b204e92b5"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_body": {
+      "size": 27099,
+      "sha256": "082fadbfdc48b4887a8e917ca437f3581d170e9b64c3943e23a57c45e9220292"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_body_ph": {
+      "size": 2128,
+      "sha256": "b075343d952bdf1eef62f0ea997e38583521a3ce74d46396e7eb43477373faec"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_feet": {
+      "size": 13363,
+      "sha256": "69fa979937a4e8e76c0ca4ffb290688b67a4f5e498a42ce1c65358b0e56d9b8f"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_feet_ph": {
+      "size": 2515,
+      "sha256": "a48fa2a8455ab352e80e1223c897bfa57f60b57e47fe857ad9a90ecbe68a40ae"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_head": {
+      "size": 12801,
+      "sha256": "046ac6add91b332e73e4c7f3a76a0b856564192e4ae427af70e6d6e67e622bd8"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_head_ph": {
+      "size": 1965,
+      "sha256": "eb8fae2a180fa5b9452de0425313fb19976f7bb2c1f35777e71b0ea187593d7c"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_legs": {
+      "size": 43845,
+      "sha256": "751d868117a8017b459c693e6d1816f1cde27ed3c196e3e19441fde31f79d16f"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_legs_ph": {
+      "size": 3611,
+      "sha256": "a5f4198c47cef2c30b685223bf0625e363ddfcdbb06c219eae5112d40301530d"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_pelvis": {
+      "size": 20390,
+      "sha256": "f99285ded4f6aceef6faf96610d8e03d4b92c2a7f10451b12fa08088b2e00a82"
+    },
+    "legendware/Legendware/resources/images/g_hitbox_pelvis_ph": {
+      "size": 1300,
+      "sha256": "703c2c212b03d07eb22b9099791dcac73bf348955cac1ba8d03743a642303e24"
+    },
+    "legendware/Legendware/resources/images/g_large_logo": {
+      "size": 11182,
+      "sha256": "1fee84b367435c3abca4debf48b6def71c1e8f7f371bf1a4eef2daa257892bba"
+    },
+    "legendware/Legendware/resources/images/g_logo": {
+      "size": 19438,
+      "sha256": "a3329669c1333823456a1e0853a844f0323d6fca2832ed90477422c570e0712e"
+    },
+    "legendware/Legendware/resources/images/g_logoa": {
+      "size": 19438,
+      "sha256": "a3329669c1333823456a1e0853a844f0323d6fca2832ed90477422c570e0712e"
+    },
+    "legendware/Legendware/resources/images/g_small_logo": {
+      "size": 1076,
+      "sha256": "84f6c4b43b17ecff60871ef40ccbec4021e861c72248756a223b3cab110bdbc3"
+    },
+    "legendware/lw.dll": {
+      "size": 7921664,
+      "sha256": "dc342327c5d08db3b56fbcfc312b7b9bc8f98b3e6965e20e36a6cb9bfc9025cd"
+    },
+    "legions/legion.dll": {
+      "size": 44166144,
+      "sha256": "ee78386f18c2d42595f7259913f439fcb74ac59dac276e017be15c5dac215294"
+    },
+    "millionware/mware.dll": {
+      "size": 4379136,
+      "sha256": "4b13677cd8442bd6f0af312a58c4ee848f272d684251cd1239285cb7ec460e8c"
+    },
+    "monolith/monolith.dll": {
+      "size": 21414912,
+      "sha256": "264f1e404ff7ae00ed323a694da7a359df00b2c56fe83df91721de1a2305cbb6"
+    },
+    "monolith/steam.dll": {
+      "size": 43170816,
+      "sha256": "1b6156e5fe95d37b4fdd6df9008440a55932518c1820c0f95e5d7efabe066334"
+    },
+    "nemesis/nem.dll": {
+      "size": 2609152,
+      "sha256": "721f7e9633476702411126ff8ea30f3b8b517411ed1a2897f05e29f51aa39ec9"
+    },
+    "neverlose/injector.exe": {
+      "size": 12288,
+      "sha256": "095a88b24f500b6f8ba4ac77ec26892cf7b4a2826c4070b817831986073fb0ef"
+    },
+    "neverlose/neverlose-server.exe": {
+      "size": 11336192,
+      "sha256": "4eca57667afae4a5a11faeb46c25bffcb79cf2584292c3c933601dff0972b900"
+    },
+    "neverlose/neverlose.dll": {
+      "size": 55730176,
+      "sha256": "e031c9198b76888aa055cd00a7b29bb268d587b4b84dc5cc5d9b36c317c61e03"
+    },
+    "nixware/nixware.dll": {
+      "size": 50374400,
+      "sha256": "79c9b95e415c11cb659913c011cd26800b12b6620852889fa4ae6bca2d49fa18"
+    },
+    "onetap/onetap-allocator-x64.dll": {
+      "size": 26017280,
+      "sha256": "d580a979cbc1fcf77f34d5473813bebf61b783998cb8b19c2e2e8bc2178ad45a"
+    },
+    "onetap/onetap-mapper-x32.dll": {
+      "size": 32990208,
+      "sha256": "6276ea36c42e3e5c8b531bf9f32c271b8778b83be3412edf3ff3ec2abe4b9cb0"
+    },
+    "otc3/otc3.dll": {
+      "size": 9245184,
+      "sha256": "bb4f1370b6916b73e038b1e76461ae5fb3d74015faaadc9d18b1d0135d4843a0"
+    },
+    "pandoranew/pdr.dll": {
+      "size": 9374720,
+      "sha256": "5031f7671c7f1c98d7121600cc7ba23721ad8f1af23b1937c04053ea5ca01161"
+    },
+    "pandoranew/steampdr.dll": {
+      "size": 37376,
+      "sha256": "db5f656320c0774598ecfbee6d9738d74ff725c1dbd079f2858cdf6061df0fe6"
+    },
+    "plague/pgc.dll": {
+      "size": 5457920,
+      "sha256": "d7ac5120b3d65c33751a22ece7ed3011a8bc82b22a291327bb9d33c2046a6989"
+    },
+    "plague/steam.dll": {
+      "size": 37376,
+      "sha256": "8954b4aff31ef122c4a02dac6dd1ae84ed293c68b26c22ec143f448530c4246b"
+    },
+    "primordial/injector_v5.exe": {
+      "size": 41984,
+      "sha256": "5245fc502628ce020f205ac5212f4db09e935bea69b4640aebedd61049c5ec0e"
+    },
+    "primordial/primordial.dll": {
+      "size": 19799040,
+      "sha256": "9af6efce13238ad4b1be5b64362b371410d79e9f51dbe6990cb4899f37141241"
+    },
+    "reversive/Reversive.dll": {
+      "size": 7712256,
+      "sha256": "c0e8e3e138d8539fc743e5d46caddf02555ad32b7195d75c055b8374159946da"
+    },
+    "safeless/safeless.dll": {
+      "size": 3037696,
+      "sha256": "ec66bf2606a8952ad9e2a1290341c8689ffd1a58ceb7408706d8485a23124ff5"
+    },
+    "sharkhack/sharkhack.dll": {
+      "size": 2055168,
+      "sha256": "29a58b20c600446a96dad97527e3a2b3581a66a739f11a2f4cbb863da35a81af"
+    },
+    "skeet/gamesense.dll": {
+      "size": 14075904,
+      "sha256": "d7d590c7e9af60ccc0d00597b2aebea438e117ec9bff0745c4ec0094f91adfe5"
+    },
+    "skeet/injector.exe": {
+      "size": 320000,
+      "sha256": "060455ce0ce19a9321c494e8dc2de49efc7f31f68cbee5ff9c7b7ab00e4c6a8f"
+    },
+    "supremacy/supremacy_desync.dll": {
+      "size": 974336,
+      "sha256": "f548aca861344f3f1995e1d984c7589b770da9ca475867209874a57acaa87c50"
+    },
+    "cs2/Interlope.dll": {
+      "size": 8987648,
+      "sha256": "ebed349385816b7c3ed233600d62052f348bc078b08423a5f1080e3d0147947f"
+    },
+    "cs2/Invinciblewin.dll": {
+      "size": 2497536,
+      "sha256": "0348193198f955dff9645e4fe79ee6a9a9f8c1742658b7cdded1e9f6b4df212e"
+    },
+    "cs2/Vantix.dll": {
+      "size": 5362688,
+      "sha256": "f164ce817a1e416eecd10a0ce2723070741ce2612db73678fa8e76be71a8362a"
+    },
+    "cs2/aimwhere.dll": {
+      "size": 35345920,
+      "sha256": "4078d5eeddb20f37bd2c358d7d876f76fa2420afe77eaee0739d6ead23890336"
+    },
+    "cs2/attackwarecs2.dll": {
+      "size": 1490432,
+      "sha256": "8b26265e4595d3f99b4ce5f67b726bff95ba45efab70aac922678a5c17f2c99f"
+    },
+    "cs2/desta.dll": {
+      "size": 41161216,
+      "sha256": "143f00c74eefd57657187d68e3a18022e0f438a123ed0bfdd89e498f37cbb1cf"
+    },
+    "cs2/katarakta.win.dll": {
+      "size": 1743872,
+      "sha256": "a46df0964ea3953e1da9d10ae9591ea363d1dbc8e5998b0bd3292676443db6e2"
+    },
+    "cs2/onetap_public.dll": {
+      "size": 8568832,
+      "sha256": "7da74b7e12ed6b96d9ab2b040e3a10ada83ac94fb67ae87a518ea038245704b1"
+    },
+    "cs2/skeet.exe": {
+      "size": 16989696,
+      "sha256": "8a687ee0d8e1a52e6673b0c7ea0ce299ac20b92d2de460694b8b804d30180369"
+    },
+    "cs2/vesta.exe": {
+      "size": 5169664,
+      "sha256": "ca06b2b18b51e75877a176a829da4229de6752946768aba5772b804e504caeaf"
+    }
+  },
+  "pending": [
+    "cs2/NL.dll"
+  ]
+}
