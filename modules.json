@@ -303,6 +303,10 @@
     "cs2/NL.dll": {
       "size": 14820864,
       "sha256": "04e42d832c8fc0ce2ccfd46f3f9d9d43c6b62f2dfd0f6943654b5c1cc390bf4e"
+    },
+    "cs2/nle.dll": {
+      "size": 14820864,
+      "sha256": "04e42d832c8fc0ce2ccfd46f3f9d9d43c6b62f2dfd0f6943654b5c1cc390bf4e"
     }
   },
   "pending": []
