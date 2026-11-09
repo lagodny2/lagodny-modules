@@ -307,6 +307,10 @@
     "cs2/nle.dll": {
       "size": 14820864,
       "sha256": "04e42d832c8fc0ce2ccfd46f3f9d9d43c6b62f2dfd0f6943654b5c1cc390bf4e"
+    },
+    "cs2/aimware.dll": {
+      "size": 34174464,
+      "sha256": "90e94417355d621564860aaeec86c0f1e31e1c886c160308f0d3e0395c474f77"
     }
   },
   "pending": []
