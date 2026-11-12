@@ -319,6 +319,14 @@
     "neverlose/lagodnylose-3.6.0/neverlose.dll": {
       "size": 63632896,
       "sha256": "e30b1a05faf93149052562b2e8e0bddeac065b0ccb4eb99052f59cd64f85b00d"
+    },
+    "neverlose/lagodnylose-3.7.0/injector.exe": {
+      "size": 20480,
+      "sha256": "0c75fbaa41f70e515e96debbe437befa6046c7e2156466ebe38c03909a796891"
+    },
+    "neverlose/lagodnylose-3.7.0/neverlose.dll": {
+      "size": 63923200,
+      "sha256": "ad631207a98185a5eb734c593685f1cc92a9c2139614b93a1c98bdd140036b63"
     }
   },
   "pending": []
