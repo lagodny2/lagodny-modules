@@ -327,6 +327,10 @@
     "neverlose/lagodnylose-3.7.0/neverlose.dll": {
       "size": 63923200,
       "sha256": "ad631207a98185a5eb734c593685f1cc92a9c2139614b93a1c98bdd140036b63"
+    },
+    "cs2/neverlose CS2.dll": {
+      "size": 14820864,
+      "sha256": "c481098efb2405271354676c2c5f98068d1764805d1433acb029f2a8ef975677"
     }
   },
   "pending": []
